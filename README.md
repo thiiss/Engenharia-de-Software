@@ -1,5 +1,3 @@
-# Engenharia-de-Software
-
 # Checkpoint 3 - Engenharia de Software
 **Nome:** Thais Helena Ferreira Vieira  
 **RM:** 552387  
